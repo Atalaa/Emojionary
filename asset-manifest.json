@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Emojionary/static/js/main.454cca96.chunk.js",
+    "main.js.map": "/Emojionary/static/js/main.454cca96.chunk.js.map",
+    "runtime-main.js": "/Emojionary/static/js/runtime-main.d03ca8e6.js",
+    "runtime-main.js.map": "/Emojionary/static/js/runtime-main.d03ca8e6.js.map",
+    "static/js/2.9f9ad985.chunk.js": "/Emojionary/static/js/2.9f9ad985.chunk.js",
+    "static/js/2.9f9ad985.chunk.js.map": "/Emojionary/static/js/2.9f9ad985.chunk.js.map",
+    "index.html": "/Emojionary/index.html",
+    "precache-manifest.a91a1d799d39cef58c745b2d9913165e.js": "/Emojionary/precache-manifest.a91a1d799d39cef58c745b2d9913165e.js",
+    "service-worker.js": "/Emojionary/service-worker.js",
+    "static/js/2.9f9ad985.chunk.js.LICENSE.txt": "/Emojionary/static/js/2.9f9ad985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03ca8e6.js",
+    "static/js/2.9f9ad985.chunk.js",
+    "static/js/main.454cca96.chunk.js"
+  ]
+}

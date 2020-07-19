@@ -1,3 +1,5 @@
+Please enjoy atalaa.github.io/emojionary/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

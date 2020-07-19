@@ -1,4 +1,4 @@
-Please enjoy atalaa.github.io/emojionary/
+Please enjoy https://atalaa.github.io/Emojionary/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
